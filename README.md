@@ -92,22 +92,6 @@ This project is a real-time **Face Recognition-based Attendance System** built u
 
 ---
 
-## 📸 Screenshots
-
-### 🧾 Main UI  
-![UI](screenshots/home.png)
-
-### 📷 While Taking Image  
-![Capture](screenshots/capture.png)
-
-### 📌 Attendance Window  
-![Attendance](screenshots/attendance.png)
-
-### 📊 Attendance Table  
-![Table](screenshots/tabular.png)
-
----
-
 ## ⭐ Support
 
 If you like this project, don’t forget to **Star ⭐ the repo** and **Follow** for more cool projects. Contributions and feedback are welcome!
